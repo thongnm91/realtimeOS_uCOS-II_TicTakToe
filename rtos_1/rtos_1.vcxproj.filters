@@ -13,10 +13,23 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="img">
+      <UniqueIdentifier>{8dc16dd1-2263-4295-bf28-2c2227916579}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HW4.5_TikTakToe.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="E:\OneDrive - Vaasan ammattikorkeakoulu\Real-Time OS\HW\HW4.5\2025-03-17_020914.jpg">
+      <Filter>img</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Filter>img</Filter>
+    </None>
   </ItemGroup>
 </Project>
